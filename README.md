@@ -51,8 +51,8 @@ Casais dividem despesas, cartões e metas, mas controlam tudo em planilhas ou co
 
 ## Infraestrutura
 
-VM ARM Ampere A1 (Always Free) na Oracle Cloud, provisionada por script e `cloud-init`, com Docker Compose (API, Postgres e Caddy). Veja [cloud-foundation](https://github.com/matheusmsarvas-creator/cloud-foundation).
+VM ARM Ampere A1 (Always Free) na Oracle Cloud, provisionada por script e `cloud-init`, com Docker Compose (API, Postgres e Caddy). Veja [cloud-foundation](https://github.com/mathsarvas-dev/cloud-foundation).
 
 ## Autor
 
-**Matheus Mosconi Sarvas** · [GitHub](https://github.com/matheusmsarvas-creator)
+**Matheus Mosconi Sarvas** · [GitHub](https://github.com/mathsarvas-dev)
