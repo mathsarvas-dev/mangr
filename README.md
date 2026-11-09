@@ -55,4 +55,4 @@ VM ARM Ampere A1 (Always Free) na Oracle Cloud, provisionada por script e `cloud
 
 ## Autor
 
-**Matheus Mosconi Sarvas** · [GitHub](https://github.com/mathsarvas-dev)
+**Matheus Mosconi Sarvas** · [GitHub](https://github.com/mathsarvas-dev) · [LinkedIn](https://www.linkedin.com/in/matheus-mosconi-sarvas/)
